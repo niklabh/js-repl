@@ -1,0 +1,23 @@
+{
+  "name": "js-repl",
+  "version": "0.0.1",
+  "description": "Javascript read Eval Print Loop",
+  "main": "repl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niklabh/js-repl.git"
+  },
+  "keywords": [
+    "repl",
+    "js"
+  ],
+  "author": "Nikhil Ranjan @niklabh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niklabh/js-repl/issues"
+  },
+  "homepage": "https://github.com/niklabh/js-repl#readme"
+}
